@@ -1,1 +1,0 @@
-# calculation-of-DC-motor-power-losses.py
